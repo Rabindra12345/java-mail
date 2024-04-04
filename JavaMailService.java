@@ -44,7 +44,7 @@
 //        Session session = Session.getDefaultInstance(connectionProperties,
 //                new Authenticator() {	// Define the authenticator
 //                    protected PasswordAuthentication getPasswordAuthentication() {
-//                        return new PasswordAuthentication("rabindradahal2015@gmail.com","waof uztc nzic urff");
+//                        return new PasswordAuthentication("rabindradahal2015@gmail.com","your_app_password");
 //                    }
 //                });
 //
